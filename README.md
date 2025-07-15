@@ -1,25 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anil Can Salan
-======================================================================================================================================
+# Hi there, I'm Anil Can Salan! 👋
 
-Frontend Web Developer
-----------------------
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Frontend+Web+Developer;Learning+%26+Growing+Every+Day;Open+to+Collaboration!" alt="Typing SVG" />
+</div>
 
-I am in training as a a web developer and am currently learning the ropes in many fields. My knowledge includes ( advanced ) basic knowledge in Html, CSS, JS and PHP In addition, I am currently trying out various frameworks and at the same time doing my training as a web developer
+## 🚀 About Me
 
-* 🌍  I'm based in Esslingen
-* ✉️  You can contact me at [anilsalan@gmx.de](mailto:anilsalan@gmx.de)
-* 🚀  I'm currently working on [W&S Digitalagentur GmbH](http://wus.agency)
-* 🧠  I'm learning React, Typo3, Shopware
-* 🤝  I'm open to collaborating on various beginner projects in my knowledge area to learn more :D
+I'm a passionate **Frontend Web Developer** in training, currently expanding my skills across multiple technologies and frameworks. Based in **Esslingen**, I'm dedicated to continuous learning and creating amazing web experiences.
 
-### Skills
+- 🌍 **Location:** Esslingen, Germany
+- 💼 **Currently working at:** [W&S Digitalagentur GmbH](http://wus.agency)
+- 🧠 **Currently learning:** React, Typo3, Shopware
+- 🤝 **Open to:** Collaborating on beginner-friendly projects
+- 📫 **Contact me:** [anilsalan@gmx.de](mailto:anilsalan@gmx.de)
 
+## 🛠️ Tech Stack
 
+### Languages & Technologies
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,tailwind,bootstrap,django&perline=5" alt="Tech Stack" />
 </p>
 
+### What I'm working with:
+- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js
+- **Styling:** TailwindCSS, Bootstrap
+- **Backend:** PHP, Django
+- **Currently exploring:** Typo3, Shopware
 
-### Socials
+## 📊 GitHub Stats
 
-<p align="left"> <a href="https://discord.com/users/an1lvonan1lexpress" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/an1lsalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/anilcansalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/anil_salan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=an1lsalan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=an1lsalan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+
+> *Coming soon! Currently working on exciting projects that I'll showcase here.*
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://discord.com/users/an1lvonan1lexpress" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.github.com/an1lsalan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="http://www.instagram.com/anilcansalan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.x.com/anil_salan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+## 💡 Fun Facts
+
+- 🎯 I love learning new technologies and frameworks
+- 🌱 Always open to feedback and collaboration
+- 📚 Believer in continuous learning and improvement
+- 🔍 Interested in modern web development practices
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=an1lsalan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>⭐ Feel free to star my repositories if you find them interesting!</i>
+</div>
